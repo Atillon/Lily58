@@ -1901,7 +1901,7 @@
   (symbol (lib_id "Device:C") (at 182.88 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0a507022-0307-47fe-860e-ba79821c3aca)
-    (property "Reference" "C2" (at 186.69 96.52 0)
+    (property "Reference" "C22" (at 186.69 96.52 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 186.69 99.06 0)
@@ -1918,7 +1918,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C2") (unit 1)
+          (reference "C22") (unit 1)
         )
       )
     )
@@ -2063,7 +2063,7 @@
   (symbol (lib_id "Device:C") (at 271.78 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1d441b72-8619-44ef-be7d-c3c6d56c84a1)
-    (property "Reference" "C5" (at 275.59 96.52 0)
+    (property "Reference" "C25" (at 275.59 96.52 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "15µ" (at 275.59 99.06 0)
@@ -2080,7 +2080,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C5") (unit 1)
+          (reference "C25") (unit 1)
         )
       )
     )
@@ -2089,7 +2089,7 @@
   (symbol (lib_id "Device:L") (at 200.66 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1e751b48-dea1-4607-84c4-feaba12579a1)
-    (property "Reference" "L2" (at 201.93 138.43 0)
+    (property "Reference" "L31" (at 201.93 138.43 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "2.2µ" (at 201.93 140.97 0)
@@ -2106,7 +2106,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "L2") (unit 1)
+          (reference "L31") (unit 1)
         )
       )
     )
@@ -2142,7 +2142,7 @@
   (symbol (lib_id "Device:C") (at 247.65 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 21b2cbc2-f78c-46b2-81a8-9cc1d219cc1c)
-    (property "Reference" "C8" (at 251.46 128.27 0)
+    (property "Reference" "C33" (at 251.46 128.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1.22p" (at 251.46 130.81 0)
@@ -2159,7 +2159,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C8") (unit 1)
+          (reference "C33") (unit 1)
         )
       )
     )
@@ -2397,7 +2397,7 @@
   (symbol (lib_id "Device:C") (at 271.78 144.78 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3a08e7f4-4620-49e3-a964-15ca36356872)
-    (property "Reference" "C10" (at 275.59 143.51 0)
+    (property "Reference" "C35" (at 275.59 143.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "15µ" (at 275.59 146.05 0)
@@ -2414,7 +2414,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C10") (unit 1)
+          (reference "C35") (unit 1)
         )
       )
     )
@@ -2509,7 +2509,7 @@
   (symbol (lib_id "Device:L") (at 200.66 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 40849e6e-d2a8-472b-bbf7-117c437218c8)
-    (property "Reference" "L1" (at 201.93 91.44 0)
+    (property "Reference" "L21" (at 201.93 91.44 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "2.2µ" (at 201.93 93.98 0)
@@ -2526,7 +2526,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "L1") (unit 1)
+          (reference "L21") (unit 1)
         )
       )
     )
@@ -2535,7 +2535,7 @@
   (symbol (lib_id "Device:C") (at 172.72 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 450f6965-41f3-4492-9191-82165f58185f)
-    (property "Reference" "C1" (at 176.53 96.52 0)
+    (property "Reference" "C21" (at 176.53 96.52 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "15µ" (at 176.53 99.06 0)
@@ -2552,7 +2552,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C1") (unit 1)
+          (reference "C21") (unit 1)
         )
       )
     )
@@ -2561,7 +2561,7 @@
   (symbol (lib_id "Device:C") (at 172.72 144.78 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 530ca88b-9010-4c8d-8feb-e413bdd68842)
-    (property "Reference" "C6" (at 176.53 143.51 0)
+    (property "Reference" "C31" (at 176.53 143.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "15µ" (at 176.53 146.05 0)
@@ -2578,7 +2578,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C6") (unit 1)
+          (reference "C31") (unit 1)
         )
       )
     )
@@ -2787,7 +2787,7 @@
   (symbol (lib_id "Device:C") (at 260.35 144.78 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 80896c7b-4ee4-46b1-9209-0c89ed73c270)
-    (property "Reference" "C9" (at 264.16 143.51 0)
+    (property "Reference" "C34" (at 264.16 143.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "15µ" (at 264.16 146.05 0)
@@ -2804,7 +2804,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C9") (unit 1)
+          (reference "C34") (unit 1)
         )
       )
     )
@@ -2975,7 +2975,7 @@
   (symbol (lib_id "Device:R") (at 236.22 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a1c64044-84f1-44f5-b94f-93dd99dd9eda)
-    (property "Reference" "R7" (at 238.76 96.52 0)
+    (property "Reference" "R23" (at 238.76 96.52 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "200k" (at 238.76 99.06 0)
@@ -2992,7 +2992,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "R7") (unit 1)
+          (reference "R23") (unit 1)
         )
       )
     )
@@ -3051,7 +3051,7 @@
   (symbol (lib_id "Device:C") (at 260.35 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid acd4945c-52a4-48ed-a691-70b56dc19249)
-    (property "Reference" "C4" (at 264.16 96.52 0)
+    (property "Reference" "C24" (at 264.16 96.52 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "15µ" (at 264.16 99.06 0)
@@ -3068,7 +3068,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C4") (unit 1)
+          (reference "C24") (unit 1)
         )
       )
     )
@@ -3103,7 +3103,7 @@
   (symbol (lib_id "Device:R") (at 236.22 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b317715e-c993-400e-ac8f-27097b5c831f)
-    (property "Reference" "R9" (at 238.76 128.27 0)
+    (property "Reference" "R32" (at 238.76 128.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1.8M" (at 238.76 130.81 0)
@@ -3120,7 +3120,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "R9") (unit 1)
+          (reference "R32") (unit 1)
         )
       )
     )
@@ -3180,7 +3180,7 @@
   (symbol (lib_id "Device:R") (at 236.22 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c0a7fd24-7fb7-4a77-880f-3f4a283bb5f3)
-    (property "Reference" "R6" (at 238.76 81.28 0)
+    (property "Reference" "R22" (at 238.76 81.28 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1.12M" (at 238.76 83.82 0)
@@ -3197,7 +3197,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "R6") (unit 1)
+          (reference "R22") (unit 1)
         )
       )
     )
@@ -3357,7 +3357,7 @@
   (symbol (lib_id "Device:R") (at 182.88 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d610a068-7717-4530-91ec-df60552de132)
-    (property "Reference" "R8" (at 185.42 128.27 0)
+    (property "Reference" "R31" (at 185.42 128.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100" (at 185.42 130.81 0)
@@ -3374,7 +3374,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "R8") (unit 1)
+          (reference "R31") (unit 1)
         )
       )
     )
@@ -3409,7 +3409,7 @@
   (symbol (lib_id "Device:C") (at 182.88 144.78 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dc6e0e87-52cd-466c-bb3b-7d55ca8bc5f6)
-    (property "Reference" "C7" (at 186.69 143.51 0)
+    (property "Reference" "C32" (at 186.69 143.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 186.69 146.05 0)
@@ -3426,7 +3426,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C7") (unit 1)
+          (reference "C32") (unit 1)
         )
       )
     )
@@ -3536,7 +3536,7 @@
   (symbol (lib_id "Device:R") (at 182.88 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e8d61d3a-7e8f-4f1e-ad32-428db78558ed)
-    (property "Reference" "R5" (at 185.42 81.28 0)
+    (property "Reference" "R21" (at 185.42 81.28 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100" (at 185.42 83.82 0)
@@ -3553,7 +3553,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "R5") (unit 1)
+          (reference "R21") (unit 1)
         )
       )
     )
@@ -3646,7 +3646,7 @@
   (symbol (lib_id "Device:C") (at 247.65 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f3bbb764-87fd-41c1-9192-551866c48c5f)
-    (property "Reference" "C3" (at 251.46 81.28 0)
+    (property "Reference" "C23" (at 251.46 81.28 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1.96p" (at 251.46 83.82 0)
@@ -3663,7 +3663,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C3") (unit 1)
+          (reference "C23") (unit 1)
         )
       )
     )
@@ -3747,7 +3747,7 @@
   (symbol (lib_id "Device:R") (at 236.22 144.78 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ffd71bae-f305-4332-900e-c2e686405622)
-    (property "Reference" "R10" (at 238.76 143.51 0)
+    (property "Reference" "R33" (at 238.76 143.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "200k" (at 238.76 146.05 0)
@@ -3764,7 +3764,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "R10") (unit 1)
+          (reference "R33") (unit 1)
         )
       )
     )
