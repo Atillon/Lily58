@@ -1,0 +1,3 @@
+[submodule "Lily58.pretty/keyswitches.pretty"]
+	path = Lily58.pretty/keyswitches.pretty
+	url = https://github.com/daprice/keyswitches.pretty.git

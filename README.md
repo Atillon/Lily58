@@ -13,3 +13,9 @@ Requirements:
   - (optional) footprints for different ESP32-S3 modules and DevKits
   - (optional) opt-in battery charger + battery
   - (optional) opt-in USB protection circuits and voltage regulation by utilizing ESP32-S3 DevKits
+
+# Credits
+  - various cherry mx switch footprints (https://github.com/daprice/keyswitches.pretty.git)
+
+When cloning this repository, don't forget to also clone the submodules:
+'git submodule update --init --recursive'
