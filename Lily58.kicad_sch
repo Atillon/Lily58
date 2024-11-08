@@ -3875,6 +3875,23 @@
     )
   )
 
+  (sheet (at 74.93 163.83) (size 27.94 22.86) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3cabbf22-a691-4141-b2a0-7c2cb7676c85)
+    (property "Sheetname" "RGB Matrix" (at 74.93 163.1184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "rgb_matrix.kicad_sch" (at 74.93 187.2746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Lily58"
+        (path "/a0958e12-2248-4ac3-b259-3086ac296b70" (page "4"))
+      )
+    )
+  )
+
   (sheet (at 74.93 121.92) (size 27.94 34.29) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
