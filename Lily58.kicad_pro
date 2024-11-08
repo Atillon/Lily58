@@ -330,6 +330,10 @@
     [
       "e89ddc09-3400-44c0-8130-3ab15c16d278",
       "Microcontroller"
+    ],
+    [
+      "aa203636-d2d3-485c-83cf-d58851346996",
+      "Switch Matrix"
     ]
   ],
   "text_variables": {}
