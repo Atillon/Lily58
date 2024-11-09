@@ -999,7 +999,7 @@
   (symbol (lib_id "Device:C") (at 148.59 167.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0213a5c8-2e25-4798-a5e9-4c59179aa432)
-    (property "Reference" "C11" (at 152.4 166.37 0)
+    (property "Reference" "C?" (at 152.4 166.37 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 152.4 168.91 0)
@@ -1016,7 +1016,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C129") (unit 1)
@@ -1084,7 +1084,7 @@
   (symbol (lib_id "Device:C") (at 36.83 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0809990c-e7b8-4c7f-8284-77cac2ad6812)
-    (property "Reference" "C11" (at 40.64 55.88 0)
+    (property "Reference" "C?" (at 40.64 55.88 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 40.64 58.42 0)
@@ -1101,7 +1101,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C107") (unit 1)
@@ -1113,7 +1113,7 @@
   (symbol (lib_id "power:GND") (at 176.53 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 091887db-41d5-4375-89b2-4af60b3e1dc2)
-    (property "Reference" "#PWR030" (at 176.53 67.31 0)
+    (property "Reference" "#PWR?" (at 176.53 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 176.53 66.04 0)
@@ -1129,7 +1129,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR065") (unit 1)
@@ -1141,7 +1141,7 @@
   (symbol (lib_id "power:GND") (at 148.59 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0c137752-2e31-45f4-bd5d-96a98161e4db)
-    (property "Reference" "#PWR030" (at 148.59 140.97 0)
+    (property "Reference" "#PWR?" (at 148.59 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 148.59 139.7 0)
@@ -1157,7 +1157,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR089") (unit 1)
@@ -1169,7 +1169,7 @@
   (symbol (lib_id "Device:C") (at 64.77 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0cb2d4bd-5ca4-46a9-b07a-c5f3f6b116eb)
-    (property "Reference" "C11" (at 68.58 55.88 0)
+    (property "Reference" "C?" (at 68.58 55.88 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 68.58 58.42 0)
@@ -1186,7 +1186,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C108") (unit 1)
@@ -1198,7 +1198,7 @@
   (symbol (lib_id "power:GND") (at 36.83 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 10325213-e3e5-4431-949b-01072a378624)
-    (property "Reference" "#PWR030" (at 36.83 67.31 0)
+    (property "Reference" "#PWR?" (at 36.83 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 36.83 66.04 0)
@@ -1214,7 +1214,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR055") (unit 1)
@@ -1226,7 +1226,7 @@
   (symbol (lib_id "power:GND") (at 120.65 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 127656a2-3279-493a-85eb-c0469f2447b0)
-    (property "Reference" "#PWR030" (at 120.65 30.48 0)
+    (property "Reference" "#PWR?" (at 120.65 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 120.65 29.21 0)
@@ -1242,7 +1242,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR051") (unit 1)
@@ -1254,7 +1254,7 @@
   (symbol (lib_id "power:GND") (at 129.54 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 14735bb5-34e9-4ad9-8ed5-21007f9570fc)
-    (property "Reference" "#PWR030" (at 129.54 123.19 0)
+    (property "Reference" "#PWR?" (at 129.54 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 129.54 121.92 0)
@@ -1270,7 +1270,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR075") (unit 1)
@@ -1282,7 +1282,7 @@
   (symbol (lib_id "power:GND") (at 64.77 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1611c85c-f4e1-4948-8c6e-045b0e23e453)
-    (property "Reference" "#PWR030" (at 64.77 30.48 0)
+    (property "Reference" "#PWR?" (at 64.77 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 64.77 29.21 0)
@@ -1298,7 +1298,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR049") (unit 1)
@@ -1310,7 +1310,7 @@
   (symbol (lib_id "Device:C") (at 176.53 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 16151647-96f7-402a-9bc8-473f3be032c9)
-    (property "Reference" "C11" (at 180.34 92.71 0)
+    (property "Reference" "C?" (at 180.34 92.71 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 180.34 95.25 0)
@@ -1327,7 +1327,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C118") (unit 1)
@@ -1339,7 +1339,7 @@
   (symbol (lib_id "power:GND") (at 73.66 190.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1972f0d9-338a-4aef-a496-46471c1aeb6d)
-    (property "Reference" "#PWR030" (at 73.66 196.85 0)
+    (property "Reference" "#PWR?" (at 73.66 196.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 73.66 195.58 0)
@@ -1355,7 +1355,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR097") (unit 1)
@@ -1367,7 +1367,7 @@
   (symbol (lib_id "power:GND") (at 36.83 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 19868cd9-a119-44aa-9229-4fc398b34757)
-    (property "Reference" "#PWR030" (at 36.83 30.48 0)
+    (property "Reference" "#PWR?" (at 36.83 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 36.83 29.21 0)
@@ -1383,7 +1383,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR042") (unit 1)
@@ -1395,7 +1395,7 @@
   (symbol (lib_id "power:GND") (at 157.48 190.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1eb3a824-0a91-425d-8209-b9f39ac9ff5d)
-    (property "Reference" "#PWR030" (at 157.48 196.85 0)
+    (property "Reference" "#PWR?" (at 157.48 196.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 157.48 195.58 0)
@@ -1411,7 +1411,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR0103") (unit 1)
@@ -1423,7 +1423,7 @@
   (symbol (lib_id "power:GND") (at 157.48 153.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1f658af0-cb37-438d-a7be-95dd9c967754)
-    (property "Reference" "#PWR030" (at 157.48 160.02 0)
+    (property "Reference" "#PWR?" (at 157.48 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 157.48 158.75 0)
@@ -1439,7 +1439,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR090") (unit 1)
@@ -1451,7 +1451,7 @@
   (symbol (lib_id "power:GND") (at 45.72 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 22e7b114-bf81-40dc-9d63-0b49fef2b5e9)
-    (property "Reference" "#PWR030" (at 45.72 49.53 0)
+    (property "Reference" "#PWR?" (at 45.72 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 45.72 48.26 0)
@@ -1467,7 +1467,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR043") (unit 1)
@@ -1479,7 +1479,7 @@
   (symbol (lib_id "power:GND") (at 36.83 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 24835fd8-c74a-4202-bc1a-e6f53fe97ee0)
-    (property "Reference" "#PWR030" (at 36.83 140.97 0)
+    (property "Reference" "#PWR?" (at 36.83 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 36.83 139.7 0)
@@ -1495,7 +1495,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR081") (unit 1)
@@ -1507,7 +1507,7 @@
   (symbol (lib_id "power:GND") (at 101.6 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 24dba0ff-576c-42df-ac08-4310ca54a67b)
-    (property "Reference" "#PWR030" (at 101.6 49.53 0)
+    (property "Reference" "#PWR?" (at 101.6 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 101.6 48.26 0)
@@ -1523,7 +1523,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR045") (unit 1)
@@ -1535,7 +1535,7 @@
   (symbol (lib_id "power:GND") (at 64.77 171.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2683c9db-635b-427d-a842-21c024a2d758)
-    (property "Reference" "#PWR030" (at 64.77 177.8 0)
+    (property "Reference" "#PWR?" (at 64.77 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 64.77 176.53 0)
@@ -1551,7 +1551,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR096") (unit 1)
@@ -1591,7 +1591,7 @@
   (symbol (lib_id "power:GND") (at 101.6 190.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2921f861-88c2-418a-91d2-98caeae3c33f)
-    (property "Reference" "#PWR030" (at 101.6 196.85 0)
+    (property "Reference" "#PWR?" (at 101.6 196.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 101.6 195.58 0)
@@ -1607,7 +1607,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR099") (unit 1)
@@ -1647,7 +1647,7 @@
   (symbol (lib_id "Device:C") (at 120.65 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2dba00ab-d2fa-4931-820d-48cac9534015)
-    (property "Reference" "C11" (at 124.46 92.71 0)
+    (property "Reference" "C?" (at 124.46 92.71 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 124.46 95.25 0)
@@ -1664,7 +1664,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C116") (unit 1)
@@ -1676,7 +1676,7 @@
   (symbol (lib_id "power:GND") (at 120.65 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 326fb367-d2f9-4208-9494-3803de0bd200)
-    (property "Reference" "#PWR030" (at 120.65 104.14 0)
+    (property "Reference" "#PWR?" (at 120.65 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 120.65 102.87 0)
@@ -1692,7 +1692,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR074") (unit 1)
@@ -1704,7 +1704,7 @@
   (symbol (lib_id "power:GND") (at 64.77 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 331726ee-5c62-48ae-a7c0-8525937ec8e1)
-    (property "Reference" "#PWR030" (at 64.77 140.97 0)
+    (property "Reference" "#PWR?" (at 64.77 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 64.77 139.7 0)
@@ -1720,7 +1720,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR083") (unit 1)
@@ -1732,7 +1732,7 @@
   (symbol (lib_id "Device:C") (at 92.71 167.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3846fcad-b0fc-4bf3-a26f-22a0d486581f)
-    (property "Reference" "C11" (at 96.52 166.37 0)
+    (property "Reference" "C?" (at 96.52 166.37 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 96.52 168.91 0)
@@ -1749,7 +1749,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C127") (unit 1)
@@ -1761,7 +1761,7 @@
   (symbol (lib_id "power:GND") (at 73.66 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 393111e7-7f69-4772-bb1c-482c4c9894a2)
-    (property "Reference" "#PWR030" (at 73.66 86.36 0)
+    (property "Reference" "#PWR?" (at 73.66 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 73.66 85.09 0)
@@ -1777,7 +1777,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR058") (unit 1)
@@ -1817,7 +1817,7 @@
   (symbol (lib_id "power:GND") (at 64.77 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3c5d95df-e0bf-4181-b05c-a9608c5c3beb)
-    (property "Reference" "#PWR030" (at 64.77 104.14 0)
+    (property "Reference" "#PWR?" (at 64.77 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 64.77 102.87 0)
@@ -1833,7 +1833,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR070") (unit 1)
@@ -1873,7 +1873,7 @@
   (symbol (lib_id "power:GND") (at 129.54 153.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 419aba87-98b2-4a11-ba9f-bc9339bb2f06)
-    (property "Reference" "#PWR030" (at 129.54 160.02 0)
+    (property "Reference" "#PWR?" (at 129.54 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 129.54 158.75 0)
@@ -1889,7 +1889,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR088") (unit 1)
@@ -1929,7 +1929,7 @@
   (symbol (lib_id "power:GND") (at 64.77 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4384131c-12fd-464e-9eb1-f73f29c0551c)
-    (property "Reference" "#PWR030" (at 64.77 67.31 0)
+    (property "Reference" "#PWR?" (at 64.77 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 64.77 66.04 0)
@@ -1945,7 +1945,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR057") (unit 1)
@@ -1957,7 +1957,7 @@
   (symbol (lib_id "power:GND") (at 101.6 153.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 44c9d934-7c8d-4d71-b313-8f63b4f606a1)
-    (property "Reference" "#PWR030" (at 101.6 160.02 0)
+    (property "Reference" "#PWR?" (at 101.6 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 101.6 158.75 0)
@@ -1973,7 +1973,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR086") (unit 1)
@@ -2013,7 +2013,7 @@
   (symbol (lib_id "Device:C") (at 148.59 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4a79247d-e8ae-4c2d-bd2c-1102ceb3482a)
-    (property "Reference" "C11" (at 152.4 92.71 0)
+    (property "Reference" "C?" (at 152.4 92.71 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 152.4 95.25 0)
@@ -2030,7 +2030,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C117") (unit 1)
@@ -2098,7 +2098,7 @@
   (symbol (lib_id "power:GND") (at 176.53 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 507d66d8-b1d6-4468-8e94-650c063d2f22)
-    (property "Reference" "#PWR030" (at 176.53 104.14 0)
+    (property "Reference" "#PWR?" (at 176.53 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 176.53 102.87 0)
@@ -2114,7 +2114,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR078") (unit 1)
@@ -2126,7 +2126,7 @@
   (symbol (lib_id "power:GND") (at 92.71 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5685248b-9076-4e3c-812b-db37dd00e0ba)
-    (property "Reference" "#PWR030" (at 92.71 140.97 0)
+    (property "Reference" "#PWR?" (at 92.71 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 92.71 139.7 0)
@@ -2142,7 +2142,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR085") (unit 1)
@@ -2154,7 +2154,7 @@
   (symbol (lib_id "Device:R") (at 30.48 35.56 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5872cf08-fcfa-4858-b653-fcba6fce078a)
-    (property "Reference" "R11" (at 33.02 30.48 90)
+    (property "Reference" "R?" (at 33.02 30.48 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "540" (at 31.75 33.02 90)
@@ -2171,7 +2171,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "R11") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "RRGB") (unit 1)
@@ -2183,7 +2183,7 @@
   (symbol (lib_id "Device:C") (at 176.53 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5c311219-ccd3-429e-b0ee-f2bf5d46a42e)
-    (property "Reference" "C11" (at 180.34 129.54 0)
+    (property "Reference" "C?" (at 180.34 129.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 180.34 132.08 0)
@@ -2200,7 +2200,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C124") (unit 1)
@@ -2212,7 +2212,7 @@
   (symbol (lib_id "power:GND") (at 176.53 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 60ec90a4-35c9-437b-8919-291802694ace)
-    (property "Reference" "#PWR030" (at 176.53 140.97 0)
+    (property "Reference" "#PWR?" (at 176.53 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 176.53 139.7 0)
@@ -2228,7 +2228,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR091") (unit 1)
@@ -2240,7 +2240,7 @@
   (symbol (lib_id "power:GND") (at 73.66 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 63993000-5eed-4a43-9bd9-a6923baa39b5)
-    (property "Reference" "#PWR030" (at 73.66 49.53 0)
+    (property "Reference" "#PWR?" (at 73.66 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 73.66 48.26 0)
@@ -2256,7 +2256,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR044") (unit 1)
@@ -2268,7 +2268,7 @@
   (symbol (lib_id "power:GND") (at 73.66 153.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 63ed8a77-7be8-4bbd-8ff4-89f0d5dd3e94)
-    (property "Reference" "#PWR030" (at 73.66 160.02 0)
+    (property "Reference" "#PWR?" (at 73.66 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 73.66 158.75 0)
@@ -2284,7 +2284,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR084") (unit 1)
@@ -2296,7 +2296,7 @@
   (symbol (lib_id "Device:C") (at 120.65 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 66cf6365-dd84-4629-87ab-90f263f597a7)
-    (property "Reference" "C11" (at 124.46 129.54 0)
+    (property "Reference" "C?" (at 124.46 129.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 124.46 132.08 0)
@@ -2313,7 +2313,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C122") (unit 1)
@@ -2325,7 +2325,7 @@
   (symbol (lib_id "power:GND") (at 45.72 190.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 67e5836e-219b-4100-a054-f9b12b2123ab)
-    (property "Reference" "#PWR030" (at 45.72 196.85 0)
+    (property "Reference" "#PWR?" (at 45.72 196.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 45.72 195.58 0)
@@ -2341,7 +2341,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR095") (unit 1)
@@ -2353,7 +2353,7 @@
   (symbol (lib_id "Device:C") (at 148.59 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 68e28d0c-f7d5-4446-9d1c-4985f76c2b27)
-    (property "Reference" "C11" (at 152.4 55.88 0)
+    (property "Reference" "C?" (at 152.4 55.88 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 152.4 58.42 0)
@@ -2370,7 +2370,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C111") (unit 1)
@@ -2410,7 +2410,7 @@
   (symbol (lib_id "Device:C") (at 176.53 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 69aaea58-0c6b-45b5-95d5-fc1d1084e7f2)
-    (property "Reference" "C11" (at 180.34 55.88 0)
+    (property "Reference" "C?" (at 180.34 55.88 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 180.34 58.42 0)
@@ -2427,7 +2427,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C112") (unit 1)
@@ -2439,7 +2439,7 @@
   (symbol (lib_id "power:GND") (at 36.83 171.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 69c4fc5c-93bb-4f93-8275-d7932c8e8934)
-    (property "Reference" "#PWR030" (at 36.83 177.8 0)
+    (property "Reference" "#PWR?" (at 36.83 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 36.83 176.53 0)
@@ -2455,7 +2455,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR094") (unit 1)
@@ -2467,7 +2467,7 @@
   (symbol (lib_id "power:GND") (at 120.65 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6c9c4623-d98c-409d-b61d-8b57edfc2a5f)
-    (property "Reference" "#PWR030" (at 120.65 140.97 0)
+    (property "Reference" "#PWR?" (at 120.65 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 120.65 139.7 0)
@@ -2483,7 +2483,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR087") (unit 1)
@@ -2495,7 +2495,7 @@
   (symbol (lib_id "power:GND") (at 129.54 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6eaef23c-8a3c-4b96-84a4-219388eb426d)
-    (property "Reference" "#PWR030" (at 129.54 49.53 0)
+    (property "Reference" "#PWR?" (at 129.54 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 129.54 48.26 0)
@@ -2511,7 +2511,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR046") (unit 1)
@@ -2551,7 +2551,7 @@
   (symbol (lib_id "Device:C") (at 64.77 167.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7743f275-1488-4c4a-8ac5-04effc383f89)
-    (property "Reference" "C11" (at 68.58 166.37 0)
+    (property "Reference" "C?" (at 68.58 166.37 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 68.58 168.91 0)
@@ -2568,7 +2568,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C126") (unit 1)
@@ -2580,7 +2580,7 @@
   (symbol (lib_id "Device:C") (at 120.65 20.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 791d1eb2-9277-4c85-9403-ae20d518cc70)
-    (property "Reference" "C11" (at 124.46 19.05 0)
+    (property "Reference" "C?" (at 124.46 19.05 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 124.46 21.59 0)
@@ -2597,7 +2597,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C104") (unit 1)
@@ -2609,7 +2609,7 @@
   (symbol (lib_id "power:GND") (at 185.42 153.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 820a6bec-6e4a-486a-b73e-96a472816cd1)
-    (property "Reference" "#PWR030" (at 185.42 160.02 0)
+    (property "Reference" "#PWR?" (at 185.42 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 185.42 158.75 0)
@@ -2625,7 +2625,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR092") (unit 1)
@@ -2637,7 +2637,7 @@
   (symbol (lib_id "Device:C") (at 120.65 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 859d4c99-81df-4f16-8e1b-a3513be001b6)
-    (property "Reference" "C11" (at 124.46 55.88 0)
+    (property "Reference" "C?" (at 124.46 55.88 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 124.46 58.42 0)
@@ -2654,7 +2654,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C110") (unit 1)
@@ -2666,7 +2666,7 @@
   (symbol (lib_id "power:GND") (at 92.71 171.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8689ff9d-d6ea-4d36-9caa-a6736c212051)
-    (property "Reference" "#PWR030" (at 92.71 177.8 0)
+    (property "Reference" "#PWR?" (at 92.71 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 92.71 176.53 0)
@@ -2682,7 +2682,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR098") (unit 1)
@@ -2694,7 +2694,7 @@
   (symbol (lib_id "power:GND") (at 185.42 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 86d421fe-57bb-4c6d-aaf0-da001207af04)
-    (property "Reference" "#PWR030" (at 185.42 49.53 0)
+    (property "Reference" "#PWR?" (at 185.42 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 185.42 48.26 0)
@@ -2710,7 +2710,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR048") (unit 1)
@@ -2722,7 +2722,7 @@
   (symbol (lib_id "power:GND") (at 101.6 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 89b92b0a-52bd-48a8-ab60-97d2725804c5)
-    (property "Reference" "#PWR030" (at 101.6 123.19 0)
+    (property "Reference" "#PWR?" (at 101.6 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 101.6 121.92 0)
@@ -2738,7 +2738,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR073") (unit 1)
@@ -2750,7 +2750,7 @@
   (symbol (lib_id "Device:C") (at 36.83 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8a950d7d-d622-400a-9606-de6ab6a62e40)
-    (property "Reference" "C11" (at 40.64 92.71 0)
+    (property "Reference" "C?" (at 40.64 92.71 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 40.64 95.25 0)
@@ -2767,7 +2767,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C113") (unit 1)
@@ -2779,7 +2779,7 @@
   (symbol (lib_id "power:GND") (at 73.66 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8ac8d9ae-2952-4ad9-b8e4-649f6cf8e91b)
-    (property "Reference" "#PWR030" (at 73.66 123.19 0)
+    (property "Reference" "#PWR?" (at 73.66 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 73.66 121.92 0)
@@ -2795,7 +2795,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR071") (unit 1)
@@ -2807,7 +2807,7 @@
   (symbol (lib_id "Device:C") (at 36.83 20.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8c044fbe-2387-43d8-82fa-12e5d1a7cc7e)
-    (property "Reference" "C11" (at 40.64 19.05 0)
+    (property "Reference" "C?" (at 40.64 19.05 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 40.64 21.59 0)
@@ -2824,7 +2824,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C101") (unit 1)
@@ -2836,7 +2836,7 @@
   (symbol (lib_id "power:GND") (at 148.59 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8d5c1e56-96a8-480c-b35e-087397c381e5)
-    (property "Reference" "#PWR030" (at 148.59 67.31 0)
+    (property "Reference" "#PWR?" (at 148.59 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 148.59 66.04 0)
@@ -2852,7 +2852,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR063") (unit 1)
@@ -2948,7 +2948,7 @@
   (symbol (lib_id "power:GND") (at 185.42 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 94451e65-14db-41cc-a71b-721a6ada5a02)
-    (property "Reference" "#PWR030" (at 185.42 123.19 0)
+    (property "Reference" "#PWR?" (at 185.42 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 185.42 121.92 0)
@@ -2964,7 +2964,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR079") (unit 1)
@@ -3004,7 +3004,7 @@
   (symbol (lib_id "Device:C") (at 92.71 20.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9bcf8242-44e0-4e77-bf1e-2cb4a34676eb)
-    (property "Reference" "C11" (at 96.52 19.05 0)
+    (property "Reference" "C?" (at 96.52 19.05 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 96.52 21.59 0)
@@ -3021,7 +3021,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C103") (unit 1)
@@ -3033,7 +3033,7 @@
   (symbol (lib_id "Device:C") (at 120.65 167.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a5a2a349-6823-41d4-833c-863f1cc6be06)
-    (property "Reference" "C11" (at 124.46 166.37 0)
+    (property "Reference" "C?" (at 124.46 166.37 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 124.46 168.91 0)
@@ -3050,7 +3050,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C128") (unit 1)
@@ -3062,7 +3062,7 @@
   (symbol (lib_id "power:GND") (at 157.48 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a870cd79-c3dd-46d8-bf50-7272ace8c44d)
-    (property "Reference" "#PWR030" (at 157.48 49.53 0)
+    (property "Reference" "#PWR?" (at 157.48 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 157.48 48.26 0)
@@ -3078,7 +3078,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR047") (unit 1)
@@ -3090,7 +3090,7 @@
   (symbol (lib_id "power:GND") (at 120.65 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aa14df25-441c-4f5b-aefe-51ba7770b1fb)
-    (property "Reference" "#PWR030" (at 120.65 67.31 0)
+    (property "Reference" "#PWR?" (at 120.65 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 120.65 66.04 0)
@@ -3106,7 +3106,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR061") (unit 1)
@@ -3118,7 +3118,7 @@
   (symbol (lib_id "Device:C") (at 92.71 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid aa7925d6-0315-4106-8da8-c410ea6dcf86)
-    (property "Reference" "C11" (at 96.52 55.88 0)
+    (property "Reference" "C?" (at 96.52 55.88 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 96.52 58.42 0)
@@ -3135,7 +3135,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C109") (unit 1)
@@ -3147,7 +3147,7 @@
   (symbol (lib_id "power:GND") (at 120.65 171.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ac9bc2c9-b751-4d03-b320-a4a30c9334d4)
-    (property "Reference" "#PWR030" (at 120.65 177.8 0)
+    (property "Reference" "#PWR?" (at 120.65 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 120.65 176.53 0)
@@ -3163,7 +3163,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR0100") (unit 1)
@@ -3175,7 +3175,7 @@
   (symbol (lib_id "power:GND") (at 92.71 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid afc8aa58-9c70-4aa9-b55c-23a8beefd422)
-    (property "Reference" "#PWR030" (at 92.71 104.14 0)
+    (property "Reference" "#PWR?" (at 92.71 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 92.71 102.87 0)
@@ -3191,7 +3191,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR072") (unit 1)
@@ -3231,7 +3231,7 @@
   (symbol (lib_id "Device:C") (at 92.71 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b2e37d3a-3168-4096-a1e8-92b8e4d06ea9)
-    (property "Reference" "C11" (at 96.52 92.71 0)
+    (property "Reference" "C?" (at 96.52 92.71 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 96.52 95.25 0)
@@ -3248,7 +3248,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C115") (unit 1)
@@ -3344,7 +3344,7 @@
   (symbol (lib_id "power:GND") (at 129.54 190.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bf240627-2606-47c9-8545-06a846bdbe5c)
-    (property "Reference" "#PWR030" (at 129.54 196.85 0)
+    (property "Reference" "#PWR?" (at 129.54 196.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 129.54 195.58 0)
@@ -3360,7 +3360,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR0101") (unit 1)
@@ -3372,7 +3372,7 @@
   (symbol (lib_id "Device:C") (at 36.83 167.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c062a485-e2a8-416a-a498-28058602fce7)
-    (property "Reference" "C11" (at 40.64 166.37 0)
+    (property "Reference" "C?" (at 40.64 166.37 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 40.64 168.91 0)
@@ -3389,7 +3389,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C125") (unit 1)
@@ -3429,7 +3429,7 @@
   (symbol (lib_id "Device:C") (at 36.83 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c1f9a189-e4c5-45e2-888e-d2f91956c95e)
-    (property "Reference" "C11" (at 40.64 129.54 0)
+    (property "Reference" "C?" (at 40.64 129.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 40.64 132.08 0)
@@ -3446,7 +3446,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C119") (unit 1)
@@ -3486,7 +3486,7 @@
   (symbol (lib_id "power:GND") (at 129.54 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c7a5bfd1-c65f-40ca-ab63-10d211ad6542)
-    (property "Reference" "#PWR030" (at 129.54 86.36 0)
+    (property "Reference" "#PWR?" (at 129.54 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 129.54 85.09 0)
@@ -3502,7 +3502,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR062") (unit 1)
@@ -3514,7 +3514,7 @@
   (symbol (lib_id "power:GND") (at 45.72 153.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cc140231-5f8d-4f92-9fd2-02fe0b3a1346)
-    (property "Reference" "#PWR030" (at 45.72 160.02 0)
+    (property "Reference" "#PWR?" (at 45.72 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 45.72 158.75 0)
@@ -3530,7 +3530,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR082") (unit 1)
@@ -3570,7 +3570,7 @@
   (symbol (lib_id "Device:C") (at 148.59 20.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d626677c-9599-450a-912f-5e30a0c35e5b)
-    (property "Reference" "C11" (at 152.4 19.05 0)
+    (property "Reference" "C?" (at 152.4 19.05 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 152.4 21.59 0)
@@ -3587,7 +3587,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C105") (unit 1)
@@ -3599,7 +3599,7 @@
   (symbol (lib_id "power:GND") (at 101.6 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d6d53f24-c515-422a-8af5-36c487a60b0e)
-    (property "Reference" "#PWR030" (at 101.6 86.36 0)
+    (property "Reference" "#PWR?" (at 101.6 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 101.6 85.09 0)
@@ -3615,7 +3615,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR060") (unit 1)
@@ -3627,7 +3627,7 @@
   (symbol (lib_id "power:GND") (at 148.59 171.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d6fba03d-78f0-4957-b1aa-db5090bd963e)
-    (property "Reference" "#PWR030" (at 148.59 177.8 0)
+    (property "Reference" "#PWR?" (at 148.59 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 148.59 176.53 0)
@@ -3643,7 +3643,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR0102") (unit 1)
@@ -3655,7 +3655,7 @@
   (symbol (lib_id "power:GND") (at 157.48 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d7ce2bd7-c951-4b2e-b5d9-22e39ad33983)
-    (property "Reference" "#PWR030" (at 157.48 86.36 0)
+    (property "Reference" "#PWR?" (at 157.48 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 157.48 85.09 0)
@@ -3671,7 +3671,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR064") (unit 1)
@@ -3683,7 +3683,7 @@
   (symbol (lib_id "power:GND") (at 185.42 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid de3d3f95-16db-4832-a521-033e5d81762f)
-    (property "Reference" "#PWR030" (at 185.42 86.36 0)
+    (property "Reference" "#PWR?" (at 185.42 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 185.42 85.09 0)
@@ -3699,7 +3699,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR066") (unit 1)
@@ -3711,7 +3711,7 @@
   (symbol (lib_id "Device:C") (at 64.77 20.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid df7c03d6-89f4-45dc-adc5-cf2408c6861d)
-    (property "Reference" "C11" (at 68.58 19.05 0)
+    (property "Reference" "C?" (at 68.58 19.05 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 68.58 21.59 0)
@@ -3728,7 +3728,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C102") (unit 1)
@@ -3768,7 +3768,7 @@
   (symbol (lib_id "Device:C") (at 148.59 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e1511fb7-af4d-4d88-9b0b-a6a93fc43e0a)
-    (property "Reference" "C11" (at 152.4 129.54 0)
+    (property "Reference" "C?" (at 152.4 129.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 152.4 132.08 0)
@@ -3785,7 +3785,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C123") (unit 1)
@@ -3797,7 +3797,7 @@
   (symbol (lib_id "power:GND") (at 92.71 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e277be3b-47f3-4129-ae26-3d96dedf3bb6)
-    (property "Reference" "#PWR030" (at 92.71 67.31 0)
+    (property "Reference" "#PWR?" (at 92.71 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 92.71 66.04 0)
@@ -3813,7 +3813,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR059") (unit 1)
@@ -3853,7 +3853,7 @@
   (symbol (lib_id "power:GND") (at 157.48 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e76602bf-a8ed-4574-91ac-892931866ae0)
-    (property "Reference" "#PWR030" (at 157.48 123.19 0)
+    (property "Reference" "#PWR?" (at 157.48 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 157.48 121.92 0)
@@ -3869,7 +3869,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR077") (unit 1)
@@ -3881,7 +3881,7 @@
   (symbol (lib_id "power:GND") (at 45.72 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e9922125-1fe3-478a-b4f7-47bf241d412d)
-    (property "Reference" "#PWR030" (at 45.72 123.19 0)
+    (property "Reference" "#PWR?" (at 45.72 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 45.72 121.92 0)
@@ -3897,7 +3897,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR069") (unit 1)
@@ -3909,7 +3909,7 @@
   (symbol (lib_id "Device:C") (at 176.53 20.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ebcf28da-5ed2-4407-8a2b-b26225ff233a)
-    (property "Reference" "C11" (at 180.34 19.05 0)
+    (property "Reference" "C?" (at 180.34 19.05 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 180.34 21.59 0)
@@ -3926,7 +3926,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C106") (unit 1)
@@ -3966,7 +3966,7 @@
   (symbol (lib_id "Device:C") (at 92.71 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid edc58c6a-6256-4e19-982c-20362c8d23a2)
-    (property "Reference" "C11" (at 96.52 129.54 0)
+    (property "Reference" "C?" (at 96.52 129.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 96.52 132.08 0)
@@ -3983,7 +3983,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C121") (unit 1)
@@ -4023,7 +4023,7 @@
   (symbol (lib_id "power:GND") (at 176.53 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eff7309d-4e58-4a72-ba07-e210a7fef2d9)
-    (property "Reference" "#PWR030" (at 176.53 30.48 0)
+    (property "Reference" "#PWR?" (at 176.53 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 176.53 29.21 0)
@@ -4039,7 +4039,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR053") (unit 1)
@@ -4051,7 +4051,7 @@
   (symbol (lib_id "Device:C") (at 64.77 130.81 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f0d4fa3c-15ba-45b5-a2b9-45c9872425db)
-    (property "Reference" "C11" (at 68.58 129.54 0)
+    (property "Reference" "C?" (at 68.58 129.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 68.58 132.08 0)
@@ -4068,7 +4068,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C120") (unit 1)
@@ -4080,7 +4080,7 @@
   (symbol (lib_id "power:GND") (at 148.59 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f247bd16-729b-4879-afa2-eae7cb7b0cca)
-    (property "Reference" "#PWR030" (at 148.59 30.48 0)
+    (property "Reference" "#PWR?" (at 148.59 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 148.59 29.21 0)
@@ -4096,7 +4096,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR052") (unit 1)
@@ -4136,7 +4136,7 @@
   (symbol (lib_id "Device:C") (at 64.77 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f55a2abd-1bcd-4a21-8da7-ca7ade4d8a30)
-    (property "Reference" "C11" (at 68.58 92.71 0)
+    (property "Reference" "C?" (at 68.58 92.71 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µ" (at 68.58 95.25 0)
@@ -4153,7 +4153,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "C11") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "C114") (unit 1)
@@ -4165,7 +4165,7 @@
   (symbol (lib_id "power:GND") (at 45.72 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f9143c6c-9d7b-4a70-b682-ac54e6cf1ebf)
-    (property "Reference" "#PWR030" (at 45.72 86.36 0)
+    (property "Reference" "#PWR?" (at 45.72 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 45.72 85.09 0)
@@ -4181,7 +4181,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR056") (unit 1)
@@ -4193,7 +4193,7 @@
   (symbol (lib_id "power:GND") (at 148.59 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fc862247-e1fa-4c04-9abc-21e9f8e888a6)
-    (property "Reference" "#PWR030" (at 148.59 104.14 0)
+    (property "Reference" "#PWR?" (at 148.59 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 148.59 102.87 0)
@@ -4209,7 +4209,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR076") (unit 1)
@@ -4221,7 +4221,7 @@
   (symbol (lib_id "power:GND") (at 36.83 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fcdfe52c-c790-458a-8ffc-39f733fb4ef8)
-    (property "Reference" "#PWR030" (at 36.83 104.14 0)
+    (property "Reference" "#PWR?" (at 36.83 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 36.83 102.87 0)
@@ -4237,7 +4237,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR068") (unit 1)
@@ -4249,7 +4249,7 @@
   (symbol (lib_id "power:GND") (at 92.71 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fd3a1cb7-da99-4277-9e25-04daf781029e)
-    (property "Reference" "#PWR030" (at 92.71 30.48 0)
+    (property "Reference" "#PWR?" (at 92.71 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 92.71 29.21 0)
@@ -4265,7 +4265,7 @@
     (instances
       (project "Lily58"
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
           (reference "#PWR050") (unit 1)
