@@ -2174,7 +2174,7 @@
           (reference "R?") (unit 1)
         )
         (path "/a0958e12-2248-4ac3-b259-3086ac296b70/3cabbf22-a691-4141-b2a0-7c2cb7676c85"
-          (reference "RRGB") (unit 1)
+          (reference "RRGB1") (unit 1)
         )
       )
     )
